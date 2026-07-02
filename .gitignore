@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+*.tmp
+*.bak
+.DS_Store
+.env
+.vscode/
+*.sqlite3
+input.jpg
+input.txt
+ocr_output.txt
+*.log
+capture_retry_out/
+debug_variants/
+images?q=tbn:ANd9GcQhtk4zagQUzSkfIMesUnPca8BELRTiII5eKr6Gz9YVIg&s=10
+"nano camera_test.py"
